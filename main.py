@@ -158,7 +158,7 @@ twitch_miner.mine(
     [
         Streamer("shayph"),
         Streamer("sirdapper"),
-        Streamer(""),
+        Streamer("waffletrades_"),
     ],
     followers=False,
     followers_order=FollowersOrder.ASC
