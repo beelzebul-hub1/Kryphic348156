@@ -155,7 +155,7 @@ threading.Thread(target=export_points_loop, daemon=True).start()
 
 # ---------------- RUN -----------------
 twitch_miner.mine([
-        Streamer("1"),
+        Streamer("shayph"),
         Streamer("sirdapper"),
         Streamer("waffletrades_"),
     ],
