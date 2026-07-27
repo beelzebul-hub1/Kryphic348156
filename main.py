@@ -42,8 +42,8 @@ threading.Thread(target=run_flask, daemon=True).start()
 
 # ---------------- MINER ----------------
 twitch_miner = TwitchChannelPointsMiner(
-    username="Cipher11483",
-    password="Qualify2-Shore6-Dismantle6-Fidgety7-Transfer4",
+    username="Kryphic348156",
+    password="Work7-Enlisted1-Overboard9-Threaten8-Cope8",
     claim_drops_startup=False,
     priority=[
         Priority.STREAK,
